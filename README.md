@@ -26,3 +26,10 @@ By midnight the diner had entered its second identity, no longer a stop for quic
 | result 1 | result 2 | result 3 |
 | result 4 | result 5 | result 6 |
 
+> Fig 1 - a new table
+
+Followed by some more text
+
+## Subtitle
+
+The end - thanks
