@@ -30,6 +30,34 @@ By midnight the diner had entered its second identity, no longer a stop for quic
 
 Followed by some more text
 
+## Buying a train ticket
+
+```mermaid
+flowchart TD
+	A[Arrive at station ticket machine] --> B[Select destination]
+	B --> C[Select rail line]
+	C --> D[Review fare and confirm ticket]
+	D --> E{Choose payment method}
+
+	E --> F[Cash payment]
+	F --> G[Insert cash]
+	G --> H[Machine processes payment]
+
+	E --> I[Credit payment]
+	I --> J{How to pay by credit}
+	J --> K[Insert or tap credit card]
+	J --> L[Tap RFID phone]
+	J --> M[Tap RFID credit card]
+	K --> H
+	L --> H
+	M --> H
+
+	H --> N[Collect printed ticket]
+	N --> O[Go to platform gates]
+	O --> P[Provide ticket to turnstiles]
+	P --> Q[Enter platform]
+```
+
 ## Subtitle
 
 The end - thanks
