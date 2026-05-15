@@ -74,4 +74,4 @@ Sample dog image:
 
 ## Subtitle
 
-The end - thanks
+Thanks for reading this README. If you need help with any of the content, please contact the author or repository maintainer, and report bugs, documentation issues, or other feedback through this repository so they can be reviewed and addressed.
