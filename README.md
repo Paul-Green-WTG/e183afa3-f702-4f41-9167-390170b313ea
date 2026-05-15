@@ -74,4 +74,4 @@ Sample dog image:
 
 ## Subtitle
 
-Thanks for reading this README. If you need help with any of the content, please contact the author or repository maintainer, and report bugs, documentation issues, or other feedback through this repository so they can be reviewed and addressed.
+Thanks for reading this README. If you need help with any of the content, please contact the author or repository maintainer, and if you find a bug, spot a documentation issue, or have other feedback, please open an issue in this repository so it can be reviewed and addressed.
