@@ -58,6 +58,20 @@ flowchart TD
 	P --> Q[Enter platform]
 ```
 
+## Now for some sample images
+
+Sample screen shot image:
+
+![Image of a screen](sample-image1.png)
+
+> Pic1: Sample screen shot
+
+Sample dog image:
+
+![Image of a dog](sample-image2.png)
+
+> Pic2: Sample dog image
+
 ## Subtitle
 
 The end - thanks
