@@ -103,3 +103,4 @@ Thanks for reading this README. If you need help with any of the content, please
 | --- | --- |
 | 1 | Initial release |
 | 2 | Revised text |
+| 3 | Updated change history (2026-06-10) |
