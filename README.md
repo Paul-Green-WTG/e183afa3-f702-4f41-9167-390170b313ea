@@ -1,3 +1,12 @@
+---
+name: sample_document
+description: >-
+  This is a sample document used to demonstrate YAML frontmatter.
+  The description is written across multiple lines for readability,
+  but the >- indicator causes YAML parsers to fold the lines into a
+  single paragraph and remove the trailing newline.
+date: 2026-07-17
+---
 # Inside the mind of an AI
 
 The morning train arrived with the usual hiss of brakes, but the platform felt unusually calm, as if the city had decided to pause before beginning its daily argument with time. A man in a green coat folded his newspaper with ceremonial care, a student balanced coffee and lecture notes with improbable confidence, and someone nearby was quietly humming a tune that sounded familiar without ever becoming recognizable. The station clock moved with complete indifference to all of them. When the doors opened, everyone stepped forward at once, not with urgency exactly, but with the practiced surrender of people who had already made peace with being late in minor, forgivable ways.
